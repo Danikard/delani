@@ -33,3 +33,15 @@
     background-image: url("pics/contact_image.jpg");
     
 }
+.services{
+    background-image: url("pics/services_image.jpg");
+}
+.about>h1{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.about{
+    text-align: center;
+}
