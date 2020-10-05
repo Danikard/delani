@@ -11,3 +11,25 @@
     padding-top: 250px;
     
 }
+
+.header>h1{
+    color: white;
+    text-transform: uppercase;
+}
+.header>p{
+    color: white;
+    text-transform: uppercase;
+}
+.img{
+    position: relative;
+}
+
+#image{
+    position: relative;
+    padding-top: 100px;
+    /*margin-bottom: 60px    */
+}
+.contact{
+    background-image: url("pics/contact_image.jpg");
+    
+}
