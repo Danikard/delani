@@ -106,3 +106,10 @@
     padding-left: 300px;
     padding-top: 25px;
 }
+#name,#email,#message{
+    background-color: rgb(0, 0, 0,0);
+    padding-bottom: 30px;
+}
+form#contact-form ::placeholder{
+    color:white;
+}
