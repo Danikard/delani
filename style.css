@@ -198,4 +198,19 @@ display: none;
         position:relative;
         overflow: hidden; 
     }
+    #image6{
+        position:relative;
+        overflow: hidden; 
+    } 
+    #burned{
+        position:absolute;
+        text-align: center; 
+        padding-top: 50px;
+        padding-left: 20px;
+        font-size: 25px; 
+    }
+    #image7{
+        position:relative;
+        overflow: hidden; 
+    }
     
