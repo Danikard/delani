@@ -113,3 +113,19 @@
 form#contact-form ::placeholder{
     color:white;
 }
+.on{
+    padding-left: 350px;
+}
+form#contact-form{
+    max-width:500px ;
+    margin:0 auto 50px;
+}
+footer{
+    text-align: center;
+}
+footer>.row>img{
+    padding-left: 25px;
+}
+footer>.row{
+    padding-left: 200px
+}
