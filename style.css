@@ -161,3 +161,19 @@ display: none;
         padding-left: 20px;
         font-size: 25px;
     }
+    #image2{
+        position:relative;
+        overflow: hidden;    
+    }
+    #ontario{
+        position:absolute;
+        text-align: center;
+        padding-top: 50px;
+        padding-left: 20px;
+        font-size: 25px;  
+    }
+    #image3{
+        position:relative;
+        overflow: hidden; 
+    }
+    
