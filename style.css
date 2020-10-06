@@ -149,3 +149,8 @@ display: none;
         padding-left: 15px;
         font-size: 25px;
     }
+
+ #image1{
+        position:relative;
+        overflow: hidden;   
+    }
