@@ -142,7 +142,7 @@ display: none;
     position:relative;
     overflow: auto;
     }
-    #carrae{
+#carrae{
         position:absolute;
         text-align: center;
         padding-top: 50px;
@@ -150,67 +150,81 @@ display: none;
         font-size: 25px;
     }
 
- #image1{
+#image1{
         position:relative;
         overflow: hidden;   
     }
-    #orange{
+#orange{
         position:absolute;
         text-align: center; 
         padding-top: 50px;
         padding-left: 20px;
         font-size: 25px;
     }
-    #image2{
+#image2{
         position:relative;
         overflow: hidden;    
     }
-    #ontario{
+#ontario{
         position:absolute;
         text-align: center;
         padding-top: 50px;
         padding-left: 20px;
         font-size: 25px;  
     }
-    #image3{
+#image3{
         position:relative;
         overflow: hidden; 
     }
-    #black{
+#black{
         position:absolute;
         text-align: center; 
         padding-top: 50px;
         padding-left: 20px;
         font-size: 25px; 
     }
-    #image4{
+#image4{
         position:relative;
         overflow: hidden; 
     }
-    #day{
+#day{
         position:absolute;
         text-align: center;
         padding-top: 50px;
         padding-left: 15px;
         font-size: 25px;  
     }
-    #image5{
+#image5{
         position:relative;
         overflow: hidden; 
     }
-    #image6{
+#image6{
         position:relative;
         overflow: hidden; 
     } 
-    #burned{
+#burned{
         position:absolute;
         text-align: center; 
         padding-top: 50px;
         padding-left: 20px;
         font-size: 25px; 
     }
-    #image7{
+#image7{
         position:relative;
         overflow: hidden; 
     }
-    
+#girrafe{
+        position:absolute;
+        text-align: center; 
+        padding-top: 50px;
+        padding-left: 20px;
+        font-size: 25px; 
+    }
+#image8{
+        position:relative;
+        overflow: hidden; 
+    }
+
+
+
+
