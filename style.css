@@ -99,3 +99,10 @@
     text-transform: uppercase;
     font-size: 14px;
 }
+.row{
+    padding-top: 25px;
+} 
+.portfolio>.row{
+    padding-left: 300px;
+    padding-top: 25px;
+}
