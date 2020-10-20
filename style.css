@@ -28,3 +28,46 @@
     padding-top: 100px;
   
 }
+
+.services{
+    background-image: url("pics/services_image.jpg");
+}
+.about>h1{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.about{
+    text-align: center;
+}
+.contact>h1{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.contact>.row{
+   padding-left: 250px;
+   padding-bottom: 100px;
+}
+.services>h1{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.services{
+    text-align: center;
+    color:white;
+}
+.paragraph{
+    padding-bottom: 50px;
+}
+.what-we-do>h1{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+}
