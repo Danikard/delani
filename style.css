@@ -71,3 +71,39 @@
     text-transform: uppercase;
     font-size: 14px;
 }
+.what-we-do>.row{
+    padding-left: 130px;  
+   
+}
+.card1,.card2,.card3{
+    max-width: 200px;
+}
+ .desing,.development,.management{
+     text-align: center;
+ } 
+  .management{
+   margin-top: -13px;
+} 
+.desing{
+   padding-bottom: 100px;
+
+} 
+ 
+.portfolio>h1{
+   text-align: center;
+   color: black;
+   text-transform: uppercase;
+   font-size: 14px;
+}
+.row{
+   padding-top: 25px;
+} 
+.portfolio>.row{
+    padding-left: 300px;
+    padding-top: 25px;
+     
+}
+#name,#email,#message{
+    background-color: rgb(0, 0, 0,0);
+    padding-bottom: 30px;
+}
