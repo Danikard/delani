@@ -19,3 +19,12 @@
     color: white;
     text-transform: uppercase;
 }
+.mg{
+    position: relative;
+}
+
+#image{
+    position: relative;
+    padding-top: 100px;
+  
+}
