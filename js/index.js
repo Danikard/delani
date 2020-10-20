@@ -105,3 +105,11 @@ $("#image4").hover(function(){
           function(){
             $(this).stop().animate({opacity:1},500);
           $("#girrafe").fadeOut()});
+          $("#contact-form").submit(function(){
+            var email =$("#email").val();
+            var name =$("#name").val();
+            var message=$("#message").val();
+              alert(name + " your message was recieved!" + " thank you for contacting us");
+            })
+            });   
+                 
