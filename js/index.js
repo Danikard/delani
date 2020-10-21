@@ -34,7 +34,7 @@ $("#image1").hover(function(){
   function(){
     $(this).stop().animate({opacity:1},500);
   $("#carrae").fadeOut()});
- ///////////////////////////////////// 
+ 
   $("#orange").hide();
   $("#image2").animate({opacity:1});
   $("#image2").hover(function(){
@@ -44,7 +44,7 @@ $("#image1").hover(function(){
     function(){
       $(this).stop().animate({opacity:1},500);
     $("#orange").fadeOut()});
-////////////////////////////////////////////////
+
     $("#ontario").hide();
   $("#image3").animate({opacity:1});
   $("#image3").hover(function(){
@@ -54,7 +54,7 @@ $("#image1").hover(function(){
     function(){
       $(this).stop().animate({opacity:1},500);
     $("#ontario").fadeOut()});
-///////////////////////////////////////
+
 $("#black").hide();
 $("#image4").animate({opacity:1});
 $("#image4").hover(function(){
@@ -64,7 +64,7 @@ $("#image4").hover(function(){
   function(){
     $(this).stop().animate({opacity:1},500);
   $("#black").fadeOut()});
-  ///////////////////////////////////////////
+  
   $("#day").hide();
   $("#image5").animate({opacity:1});
   $("#image5").hover(function(){
@@ -74,7 +74,7 @@ $("#image4").hover(function(){
     function(){
       $(this).stop().animate({opacity:1},500);
     $("#day").fadeOut()});
-    //////////////////////////////////////////
+    
     $("#butto").hide();
     $("#image6").animate({opacity:1});
     $("#image6").hover(function(){
@@ -84,7 +84,7 @@ $("#image4").hover(function(){
       function(){
         $(this).stop().animate({opacity:1},500);
       $("#butto").fadeOut()});
-      //////////////////////////////////////////
+      
       $("#burned").hide();
       $("#image7").animate({opacity:1});
       $("#image7").hover(function(){
@@ -94,7 +94,7 @@ $("#image4").hover(function(){
         function(){
           $(this).stop().animate({opacity:1},500);
         $("#burned").fadeOut()});
-        ///////////////////////
+        
         $("#girrafe").hide();
         $("#image8").animate({
           opacity:1});
