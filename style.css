@@ -2,7 +2,7 @@
     font-family: "PT Sans" , sans-serif;
 } 
 .header{
-    background-image: url('https://res.cloudinary.com/dxxyns2ng/image/upload/v1603263617/h_img_dh0lwi.jpg');
+    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg");
     background-size: cover;
     width:100%;
     height:650px;
@@ -30,7 +30,7 @@
 }
 
 .services{
-    background-image: url("pics/services_image.jpg");
+    background-image: url("https://res.cloudinary.com/dxxyns2ng/image/upload/v1603263614/s_image_g4qmhp.jpg");
 }
 .about>h1{
     text-align: center;
@@ -113,6 +113,7 @@
     padding-left: 350px;
 }
 form#contact-form{
+    background-image: url("https://res.cloudinary.com/dxxyns2ng/image/upload/v1603263614/c_image_rtpkiq.jpgS");
     max-width:500px ;
     margin:0 auto 50px;
 }
